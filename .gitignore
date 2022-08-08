@@ -1,3 +1,5 @@
+env/.env
+
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,django,virtualenv,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,django,virtualenv,visualstudiocode
 env/.env
@@ -137,7 +139,6 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
 venv/
 ENV/
 env.bak/
